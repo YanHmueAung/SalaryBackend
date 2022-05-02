@@ -6,7 +6,7 @@
 
 ## Setup & Usage
 1. clone this repository
-    - `git clone https://github.com/minsoeaung/confusion-server`
+    - `git clone https://github.com/YanHmueAung/SalaryBackend`
 2. in the project directory
     - Run `yarn install` and wait installing its dependencies
 3. run a Mongodb Server by following its [guide](https://docs.mongodb.com/manual/tutorial/manage-mongodb-processes/)
